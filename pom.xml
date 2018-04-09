@@ -42,6 +42,7 @@
         <module>components/org.wso2.carbon.identity.oauth.uma.permission.service</module>
         <module>components/org.wso2.carbon.identity.oauth.uma.resource.endpoint</module>
         <module>components/org.wso2.carbon.identity.oauth.uma.resource.service</module>
+        <module>components/org.wso2.carbon.identity.oauth.uma.common</module>
         <module>features/org.wso2.carbon.identity.oauth.uma.server.feature</module>
     </modules>
 
